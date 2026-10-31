@@ -1,4 +1,3 @@
-# NFC Access Hub Smart Lock System
 # NFC Access Hub & IoT Smart Lock System
 
 An end-to-end, IoT-based access control and smart lock system powered by an **ESP32**, **PN532 NFC RFID module**, **Firebase Realtime Database**, and a **Streamlit Dashboard** for real-time monitoring, management, and anomaly detection.
